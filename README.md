@@ -1,5 +1,5 @@
 # PeptoidGCN
-Graph convolutional network for prediction of glass transition temperature in peptoids
+Graph convolutional network for prediction of glass transition temperature in peptoids. 
 Part of assignment submitted for MSE465 (2023F)
 
 # Dataset
